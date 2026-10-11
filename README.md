@@ -1,8 +1,7 @@
 # 🫀 PTT (Pulse Transit Time) Blood Pressure Monitoring Device
 
-!\[License](https://img.shields.io/badge/license-MIT-blue.svg)
-!\[Board](https://img.shields.io/badge/board-ESP32-E7352C.svg)
-!\[Language](https://img.shields.io/badge/language-Arduino%20C%2B%2B-00979D.svg)
+!\[Board] ESP32-E7352C
+!\[Language] C++, Python
 
 A low-cost, non-invasive device that tracks heart activity with two sensors, an
 **ECG** (AD8232) and a **pulse oximeter** (MAX30100), to study blood pressure
@@ -13,7 +12,6 @@ Built as a team project for Capstone Design II (IPE 4710, Group 05)
 at the Islamic University of Technology, March 2025. Repository maintained by
 **Zahin Tasnim Ridita**.
 
-📄 [**Read the full project report**](report/Capstone_Report_Group5.pdf) (public copy)
 
 <p align="center">
   <img src="docs/prototype.png" alt="Final prototype with live LCD readout" width="480">
