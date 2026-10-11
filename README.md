@@ -57,7 +57,7 @@ resets every 60 seconds.
 |3 ECG electrodes|Right arm, left arm, ground|
 
 <p align="center">
-  <img src="docs/circuit\_diagram.png" alt="Circuit diagram" width="520">
+  <img src="docs/circuit_diagram.png" alt="Circuit diagram" width="520">
 </p>
 
 The development steps ran on an **Arduino Uno** with a **16x2 LCD** and the ECG
