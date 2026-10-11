@@ -192,7 +192,7 @@ An earlier check on synthetic signals (`tests/detector\_simulation.py`) showed t
 
 \---
 
-## 🔭 Future work
+## 🔭 Future work (from the report)
 
 * Wearable form factor with a custom PCB and rechargeable battery
 * Bluetooth Low Energy link to a phone app
@@ -205,4 +205,8 @@ An earlier check on synthetic signals (`tests/detector\_simulation.py`) showed t
 Group project, Capstone Design II (IPE 4710, Group 05), IUT.
 **Supervisors:** Dr. Md. Anayet Ullah Patwari and Dr. Mohammad Nasim,
 Department of Mechanical and Production Engineering, IUT.
+
+## 📄 License
+
+MIT. See [LICENSE](LICENSE).
 
