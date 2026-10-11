@@ -1,0 +1,97 @@
+{
+ "n_recordings": 13,
+ "n_subjects": 5,
+ "annotated_beats": 8251,
+ "detected_beats": 8262,
+ "matched_beats": 8132,
+ "sensitivity_pct": 98.55775057568779,
+ "ppv_pct": 98.42653110626966,
+ "median_sensitivity_pct": 100.0,
+ "min_sensitivity_pct": 86.60220994475138,
+ "min_sensitivity_record": "s12_run",
+ "timing_offset_median_ms": -10.0,
+ "timing_offset_sd_ms": 1.8225057517281738,
+ "hr_abs_err_bpm_median": 0.14914094813870804,
+ "hr_abs_err_bpm_max": 0.5410865016954034,
+ "ptt_readings": 7703,
+ "ptt_vs_ref_bias_ms": 11.219570683762173,
+ "ptt_vs_ref_sd_ms": 1.7759016106226846,
+ "bp": {
+  "sbp": {
+   "n": 8,
+   "mae_ptt": 5.931770152148053,
+   "mae_no_change": 7.0625,
+   "mae_hr": 5.477228696919493,
+   "r_ptt": -0.21984369262166908,
+   "r_hr": 0.5654900317482188
+  },
+  "dbp": {
+   "n": 8,
+   "mae_ptt": 3.488058828630004,
+   "mae_no_change": 3.4375,
+   "mae_hr": 2.067496767837241,
+   "r_ptt": 0.07880231282236859,
+   "r_hr": 0.5980859692037644
+  }
+ },
+ "bp_reference_robustness": {
+  "start": {
+   "sbp": {
+    "n": 8,
+    "mae_ptt": 8.705187178354272,
+    "mae_no_change": 7.875,
+    "mae_hr": 10.240916977816374,
+    "r_ptt": -0.3070182403733094,
+    "r_hr": 0.30230058848451385
+   },
+   "dbp": {
+    "n": 8,
+    "mae_ptt": 3.5572891215198754,
+    "mae_no_change": 3.0,
+    "mae_hr": 3.5017404040827964,
+    "r_ptt": 0.16536489964821846,
+    "r_hr": 0.08742076127616576
+   }
+  },
+  "end": {
+   "sbp": {
+    "n": 8,
+    "mae_ptt": 11.131901891174447,
+    "mae_no_change": 15.5,
+    "mae_hr": 6.762592618255976,
+    "r_ptt": 0.029838086545101526,
+    "r_hr": 0.5917730379139567
+   },
+   "dbp": {
+    "n": 8,
+    "mae_ptt": 3.7528600134470778,
+    "mae_no_change": 4.375,
+    "mae_hr": 2.684555404439652,
+    "r_ptt": -0.02421284869212312,
+    "r_hr": 0.8157373268842137
+   }
+  }
+ },
+ "cuff_rest_sbp_change_start_to_end": {
+  "values": [
+   -8.0,
+   -6.0,
+   -13.0,
+   -15.0,
+   -22.0
+  ],
+  "mean_abs": 12.8,
+  "min_abs": 6.0,
+  "max_abs": 22.0
+ },
+ "mean_abs_sbp_change_walk_run": 7.0625,
+ "ptt_by_activity_ms": {
+  "run": 352.0,
+  "sit": 390.0,
+  "walk": 290.5
+ },
+ "ptt_shorter_than_rest": "8 of 8",
+ "sbp_higher_than_rest": "6 of 8",
+ "r_dPTT_dHR": 0.3424053032194457,
+ "displayed_value_spread_ms_median": 31.0
+}
